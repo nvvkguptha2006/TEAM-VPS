@@ -1,0 +1,5 @@
+{
+  "name": "Remix: AI Code Review \u0026 Rewrite Agent",
+  "description": "An intelligent tool that reviews code for issues and provides optimized rewrites using Gemini AI.",
+  "requestFramePermissions": []
+}
